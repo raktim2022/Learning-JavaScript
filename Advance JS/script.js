@@ -81,11 +81,15 @@
 //     console.log("2sec baad chalao");
 // }, 2000)// here time is in milisec... 2000ms=2sec
 
+
+
 //first class function
 // function abc(a) {
 //     a();
 // }
 // abc(function () { console.log("hey"); })
+
+
 
 // how array is stored in JS behind the secen
 // var a = [1, 2, 3, 4];
